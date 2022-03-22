@@ -22,7 +22,7 @@ TextStyle authorDateArticleHeadline =
     GoogleFonts.poppins(color: Colors.white, fontWeight: FontWeight.w500);
 
 TextStyle detailArticle =
-    GoogleFonts.poppins(color: Color(0xff091f33), fontWeight: FontWeight.w400);
+    GoogleFonts.poppins(color: const Color(0xff091f33), fontWeight: FontWeight.w400);
 
 TextStyle categoryArticle = GoogleFonts.poppins(
     color: Colors.white, fontWeight: FontWeight.w500, fontSize: 16);
