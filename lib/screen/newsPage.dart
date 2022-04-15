@@ -18,6 +18,7 @@ class _NewsPageState extends State<NewsPage> {
   Widget build(BuildContext context) {
     return SingleChildScrollView(
       child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Padding(
             padding: EdgeInsets.only(left: 10), 
